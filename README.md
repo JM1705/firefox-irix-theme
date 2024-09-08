@@ -1,4 +1,5 @@
 ![world wide web](https://raw.githubusercontent.com/JM1705/firefox-irix-theme/main/world_wide_web.png)
+(the bookmark bar works fine as well, it's just retracted in the screenshot)
 
 ## Installation:
 
